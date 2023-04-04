@@ -1,2 +1,2 @@
-# Data-Design
+# Model Design
 Data Model Design
